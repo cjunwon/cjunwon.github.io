@@ -91,11 +91,12 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    // border-radius: 50%;
+    border-radius: 10px; // Changed from 50% to 10px for a rounded square
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid $border-color;
+      // border: 1px solid $border-color;
     }
   }
 }
@@ -125,7 +126,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-3;
 }
 
 .sidebar .author__desktop {
