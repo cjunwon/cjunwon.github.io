@@ -1,0 +1,12 @@
+{
+    "favorites.resources": [
+        {
+            "filePath": "_config.yml",
+            "group": "Default"
+        },
+        {
+            "filePath": "_pages/about.md",
+            "group": "Default"
+        }
+    ]
+}

@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Junwon Choi"
-title_separator          : "|"
+title                    : "Home"
+title_separator          : "-"
 name                     : &name "Junwon Choi"
-description              : &description "personal description"
+description              : &description "Junwon Choi's Personal Website"
 url                      : https://cjunwon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cjunwon/cjunwon.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Junwon Choi"
   pronouns         : # example: "she/her"  
-  bio              : "M.S. Student in Statistics at UC Davis. Researching machine learning, data science, and statistics."
+  bio              : "M.S. Student in Statistics at UC Davis."
   location         : "Los Angeles, CA"
   employer         : "University of California, Davis"
   uri              : # URL
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : "cjunwon"
   mastodon         : # URL
-  medium           : # URL
+  medium           : https://medium.com/@cjunwon.tech
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
