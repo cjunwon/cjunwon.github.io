@@ -13,8 +13,9 @@ Link to [resume](http://cjunwon.github.io/files/junwonchoi_resume.pdf).
 
 Education
 ======
-* M.S. in Statistics, University of California, Davis, 2025 (expected)
-* B.S. in Data Theory, University of California, Los Angeles 2024
+* M.S. in Statistics, University of California, Davis (Expected December 2025)
+  * Data Science Track
+* B.S. in Data Theory, University of California, Los Angeles (June 2024)
 
 Work experience
 ======

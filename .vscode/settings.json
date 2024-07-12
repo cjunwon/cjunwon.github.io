@@ -7,6 +7,26 @@
         {
             "filePath": "_pages/about.md",
             "group": "Default"
+        },
+        {
+            "filePath": "_data/navigation.yml",
+            "group": "Default"
+        },
+        {
+            "filePath": "_pages/cv.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "_portfolio",
+            "group": "Default"
+        },
+        {
+            "filePath": "_pages/portfolio.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "_includes/archive-single.html",
+            "group": "Default"
         }
     ]
 }

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Fingerhut (Online Retailer) Strategic Consulting"
+excerpt: "Capstone Project - B.S. in Data Theory (UCLA)<br/><img src='/images/fingerhut_consulting.png'>"
 collection: portfolio
 ---
 
