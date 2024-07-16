@@ -17,15 +17,35 @@
             "group": "Default"
         },
         {
-            "filePath": "_portfolio",
+            "filePath": "_projects",
             "group": "Default"
         },
         {
-            "filePath": "_pages/portfolio.html",
+            "filePath": "_pages/projects.html",
             "group": "Default"
         },
         {
             "filePath": "_includes/archive-single.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "_includes/map.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "_includes/timeline.html",
+            "group": "Default"
+        },
+        {
+            "filePath": "_projects/1-srilab_road_usage.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "_projects/2-fingerhut_consulting.md",
+            "group": "Default"
+        },
+        {
+            "filePath": "_projects/3-arXiv_optimization.md",
             "group": "Default"
         }
     ]
