@@ -21,7 +21,7 @@ My areas of research and past projects span across several areas in data science
 - Applied Machine Learning
 - Generative Data (Utility & Privacy)
 - Graphs & Networks
-- Geostatistics
+- Spatial Statistics
 
 Major projects that I have worked on can be found in the [Projects](http://cjunwon.github.io/projects/) section.
 
