@@ -11,7 +11,7 @@ I am an incoming graduate student at UC Davis pursuing an [M.S. in Statistics](h
 
 As an undergraduate student, I served as the Data Editor for UCLA's student newspaper [The Daily Bruin](https://dailybruin.com/), where I led a team of data journalists in producing [data-driven stories](https://stack.dailybruin.com/). Additionally, I worked as a research assistant at the [Sensing and Robotics for Infrastructure (SRI) Lab](https://sri-lab.seas.ucla.edu/) in the Department of Civil and Environmental Engineering, where I conducted research on large-scale transportation networks. I also took an academic leave to serve in the [Republic of Korea Marine Corps](https://www.rokmc.mil.kr:10005/index.do) and was discharged as a Sergeant in 2022.
 
-For more information, kindly refer to my [resume](http://cjunwon.github.io/files/junwonchoi_resume.pdf).
+For more information, please refer to my [resume](http://cjunwon.github.io/files/junwonchoi_resume.pdf).
 
 Research
 ===
