@@ -142,7 +142,8 @@
             cities.forEach(function(city) {
                 var iconProps = getIconProperties(map.getZoom()); // Use the modified function
                 var initialIcon = L.icon({
-                    iconUrl: '{{ "/assets/pin-point.png" | relative_url }}',
+                    // iconUrl: '{{ "/assets/pin-point.png" | relative_url }}',
+                    iconUrl: 'https://cjunwon.github.io/assets/pin-point.png',
                     iconSize: iconProps.size,
                     iconAnchor: iconProps.anchor,
                     popupAnchor: [0, 0] // Adjust if necessary
