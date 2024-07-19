@@ -13,27 +13,26 @@
         <script>
             document.addEventListener('DOMContentLoaded', (event) => {
                 console.log("Initializing map...");
-                // Initialize the map and set its view
+
                 var map = L.map('map').setView([20, 0], 2);
                 console.log("Map initialized", map);
 
-                // Function to determine icon size and anchor based on zoom level
+
                 function getIconProperties(zoomLevel) {
                     let size, anchor;
                     if (zoomLevel > 15) {
-                        size = [40, 40]; // Larger icons for closer zoom levels
-                        anchor = [20, 40]; // Adjust anchor point for larger icon
+                        size = [40, 40]; 
+                        anchor = [20, 40]; 
                     } else if (zoomLevel > 10) {
-                        size = [30, 30]; // Medium icons for mid zoom levels
-                        anchor = [15, 30]; // Adjust anchor point for medium icon
+                        size = [30, 30]; 
+                        anchor = [15, 30]; 
                     } else {
-                        size = [20, 20]; // Smaller icons for farther zoom levels
-                        anchor = [10, 20]; // Adjust anchor point for smaller icon
+                        size = [20, 20];
+                        anchor = [10, 20];
                     }
                     return { size: size, anchor: anchor };
                 }
 
-                // Function to update all markers' icon sizes and anchors based on the current zoom level
                 function updateMarkerIcons() {
                     var currentZoom = map.getZoom();
                     var iconProps = getIconProperties(currentZoom);
@@ -48,10 +47,8 @@
                     });
                 }
 
-                // Listen for zoom changes to update marker icons
                 map.on('zoomend', updateMarkerIcons);
 
-                // Set up the OSM layer
                 L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
                     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
                     subdomains: 'abcd',
@@ -59,7 +56,6 @@
                 }).addTo(map);
                 console.log("Tile layer added");
 
-                // Add markers for each city
                 var cities = [
                     { name: "Seoul, South Korea", coords: [37.5665, 126.9780] },
                     { name: "Incheon, South Korea", coords: [37.4563, 126.7052] },
@@ -101,54 +97,14 @@
                     { name: "San Francisco, United States", coords: [37.7749, -122.4194] }
                 ];
 
-                // Seoul, South Korea
-                // Incheon, South Korea
-                // Ilsan, South Korea
-                // Jeju, South Korea
-                // Sharjah, United Arab Emirates
-                // Dubai, United Arab Emirates
-                // Abu Dhabi, United Arab Emirates
-                // Muscat, Oman
-                // Salalah, Oman
-                // Vienna, Austria
-                // Salzburg, Austria
-                // Insbruck, Austria
-                // Zermatt, Switzerland
-                // Anman, Jordan
-                // Jerash, Jordan
-                // Chennai, India
-                // Puducherry, India
-                // Mumbai, India
-                // Dharamshala, India
-                // Kathmandu, Nepal
-                // Andaman and Nicobar Islands, India
-                // Bangkok, Thailand
-                // Beijing, China
-                // Phuket, Thailand
-                // Amsterdam, Netherlands
-                // The Hague, Netherlands
-                // New York City, United States
-                // Philadelphia, United States
-                // Banglore, India
-                // Hong Kong, China
-                // Galle, Sri Lanka
-                // Los Angeles, United States
-                // Busan, South Korea
-                // Pohang, South Korea
-                // Gimpo, South Korea
-                // Paju, South Korea
-                // San Jose, United States
-                // San Francisco, United States
-
-                // Create and add markers for each city, storing the marker reference
+                
                 cities.forEach(function(city) {
-                    var iconProps = getIconProperties(map.getZoom()); // Use the modified function
+                    var iconProps = getIconProperties(map.getZoom());
                     var initialIcon = L.icon({
-                        // iconUrl: '{{ "/assets/pin-point.png" | relative_url }}',
                         iconUrl: 'https://cjunwon.github.io/assets/pin-point.png',
                         iconSize: iconProps.size,
                         iconAnchor: iconProps.anchor,
-                        popupAnchor: [0, 0] // Adjust if necessary
+                        popupAnchor: [0, 0] 
                     });
                     city.marker = L.marker(city.coords, {icon: initialIcon}).addTo(map)
                     .bindPopup(city.name);
