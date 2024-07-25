@@ -14,7 +14,9 @@
             document.addEventListener('DOMContentLoaded', (event) => {
                 console.log("Initializing map...");
 
-                var map = L.map('map').setView([20, 0], 2);
+                var map = L.map('map', {
+                    scrollWheelZoom: false
+                }).setView([20, 0], 2);
                 console.log("Map initialized", map);
 
 
