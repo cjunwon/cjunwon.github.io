@@ -47,6 +47,10 @@
         {
             "filePath": "_projects/3-arXiv_optimization.md",
             "group": "Default"
+        },
+        {
+            "filePath": "_sass/_base.scss",
+            "group": "Default"
         }
     ]
 }

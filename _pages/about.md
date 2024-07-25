@@ -19,7 +19,7 @@ Research
 My areas of research and past projects span across several areas in data science. I am particularly interested in the following topics:
 
 - Applied Machine Learning
-- Generative Data (Utility & Privacy)
+- Generative/Synthetic Data
 - Graphs & Networks
 - Spatial Statistics
 
@@ -28,13 +28,12 @@ Major projects that I have worked on can be found in the [Projects](http://cjunw
 Recent News
 ===
 ---
-
 {% include timeline.html %}
+---
 
 
 Travel
 ===
 ---
-
 {% include map.html %}
 ---

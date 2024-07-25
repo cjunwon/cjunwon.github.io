@@ -26,19 +26,6 @@ layout: compress
     </div>
 
     {% include scripts.html %}
-    
-    <script>
-      document.addEventListener('DOMContentLoaded', function() {
-        document.querySelectorAll('a[href^="http"]').forEach(function(link) {
-          // Exclude links with the text "Previous", "Next", or within certain elements
-          if (link.textContent.trim() !== "Previous" && link.textContent.trim() !== "Next" && link.textContent.trim() !== "Junwon Choi" &&
-              !link.closest('.archive__item-title')) {
-            link.setAttribute('target', '_blank');
-            link.setAttribute('rel', 'noopener noreferrer');
-          }
-        });
-      });
-    </script>
 
   </body>
 </html>
