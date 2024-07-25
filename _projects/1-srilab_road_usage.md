@@ -12,9 +12,13 @@ Code for the project is available on [GitHub](https://github.com/cjunwon/SRILab-
 
 ---
 
-This is a subproject under a larger project, the Los Angeles Hillside Streets Prioritization for Capital Improvements, from the Sensing and Robotics for Infrastructure (SRI) Lab at UCLA (, Department of Civil and Environmental Engineering). The subproject was developed by Junwon Choi and supervised by Sven Malama, MASc.
+This is a subproject under a larger project, the Los Angeles Hillside Streets Prioritization for Capital Improvements, from the Sensing and Robotics for Infrastructure (SRI) Lab at UCLA (Department of Civil and Environmental Engineering). The subproject was developed by Junwon Choi and supervised by Sven Malama, MASc.
 
 This project is currently being updated to account for larger graph representations with igraph package integration, batch processing, and automation. Click [here](https://github.com/cjunwon/SRILab-Road-Demand-Analysis-Expanded-Graph) to see the updated code.
+
+---
+
+This study aims to address the equity and efficiency of road usage in the Los Angeles (LA) transportation network. The LA transportation network is a large-scale system that serves a diverse population with varying demographic characteristics.
 
 As part of an attempt to efficiently estimate traffic levels based on demographic levels, this subproject provides an alternative method of estimating road demand in the hillside street segments of the LA transportation system using a graph representation of the Los Angeles transportation network and the LEHD Origin-Destination Employment Statistics (LODES) dataset from the U.S. Census Bureau.
 
