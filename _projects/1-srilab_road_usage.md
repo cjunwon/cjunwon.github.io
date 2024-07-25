@@ -24,7 +24,7 @@ This project mainly uses data from the following sources:
 
 ---
 
-The following slides provide a brief overview of the subproject.\.
+The following slides provide a brief overview of the subproject.\\
 *Note: Slides will be updated accordingly as the project progresses.*
 
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c8aa97fa-e1b4-4a5f-b654-18be700f38de)
