@@ -31,11 +31,13 @@ This project mainly uses data from the following sources:
 The following slides provide a brief overview of the subproject.\\
 *Note: Slides will be updated accordingly as the project progresses.*
 
-![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c8aa97fa-e1b4-4a5f-b654-18be700f38de)
+<iframe src="/files/road_usage_presentation.pdf" width="800" height="500"></iframe>
+
+<!-- ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c8aa97fa-e1b4-4a5f-b654-18be700f38de)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c50dd9de-408b-4c29-96ad-b018520a3142)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/92a2dc8f-b559-4a88-8e96-2e0c5d706b9b)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/9c0e3cf1-4bcf-49eb-8ac6-3c501564530d)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/4e377206-79b3-4ca2-a2ea-686fef123d57)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/91946848-ccf7-4d8c-af01-07800dfa85da)
 ![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/6ba0af24-c394-45ed-92a4-2a4c1c13c3f3)
-![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c8a6cca0-024c-4e58-8875-2183cc488a21)
+![image](https://github.com/cjunwon/SRILab-Road-Demand-Analysis/assets/56373973/c8a6cca0-024c-4e58-8875-2183cc488a21) -->
