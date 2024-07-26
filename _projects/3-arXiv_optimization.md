@@ -4,3 +4,6 @@ excerpt: "Course Project - B.S. in Data Theory (UCLA)<br/><br/><img src='/images
 collection: projects
 ---
 
+<iframe src="/files/M156_presentation.pdf" width="750" height="450"></iframe>
+
+<iframe src="/files/M156_report.pdf" width="650" height="850"></iframe>
