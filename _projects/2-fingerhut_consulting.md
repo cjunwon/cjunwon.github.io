@@ -4,4 +4,4 @@ excerpt: "Capstone Project - B.S. in Data Theory (UCLA)<br/><br/><img src='/imag
 collection: projects
 ---
 
-<iframe src="/files/M148_presentation.pdf" width="750" height="450"></iframe>
+<iframe src="/files/M148_presentation.pdf" width="750" height="500"></iframe>
