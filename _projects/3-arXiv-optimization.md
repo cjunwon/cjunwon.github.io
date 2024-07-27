@@ -12,12 +12,12 @@ This project aims to develop efficient classification for research papers using 
 
 The following slides were used as part of the final project presentation.
 
-[Download  PDF](/files/M156_presentation.pdf)
+[Download  PDF](/files/MATH156_presentation.pdf)
 <iframe src="/files/M156_presentation.pdf" width="100%" height="500"></iframe>
 
 ---
 
 The following report provides a detailed overview of the project.
 
-[Download  PDF](/files/M156_report.pdf)
+[Download  PDF](/files/MATH156_report.pdf)
 <iframe src="/files/M156_report.pdf" width="100%" height="850"></iframe>

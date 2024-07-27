@@ -17,7 +17,7 @@ This project is currently being updated to account for larger graph representati
 
 ### Background & Objective
 
-This study aims to address the equity and efficiency of road usage in the Los Angeles (LA) transportation network. The LA transportation network is a large-scale system that serves a diverse population with varying demographic characteristics.
+The LA transportation network is a large-scale system that serves a diverse population with varying demographic characteristics. This study aims to address the equity and efficiency of road usage in the Los Angeles (LA) transportation network. The results from this study allow us to allocate importance values of each road segment based on the demographic characteristics of the population that uses them. This feature can be adjusted on the [web application](https://site.hspa.info/application) to prioritize road segments for capital improvements.
 
 As part of an attempt to efficiently estimate traffic levels based on demographic levels, this subproject provides an alternative method of estimating road demand in the hillside street segments of the LA transportation system using a graph representation of the Los Angeles transportation network and the LEHD Origin-Destination Employment Statistics (LODES) dataset from the U.S. Census Bureau.
 
