@@ -25,6 +25,25 @@ This project mainly uses data from the following sources:
 - [StreetsLA GeoHub Street Inventory](https://geohub.lacity.org/datasets/lahub::streetsla-geohub-street-inventory/about) (StreetsLA, City of Los Angeles)
 - [Longitudinal Employer-Household Dynamics Origin-Destination Employment Statistics (LODES)](https://lehd.ces.census.gov/data/) (United States Census Bureau)
 
+
+### Methodology & Key Concepts
+
+1. **Graph Representation of the LA Transportation Network**
+   - The LA transportation network is represented as a graph where nodes represent intersections and edges represent road segments.
+   - The graph is constructed using the StreetsLA GeoHub Street Inventory dataset.
+
+2. **Estimation of Road Demand**
+    - Road demand is estimated based on the demographic characteristics of the population that uses each road segment.
+    - The demographic characteristics are obtained from the LODES dataset.
+        - The LODES dataset provides the number of jobs in each census block group and the number of jobs that commute to each census block group.
+    - Each block is overlaid with the node points of the graph representation of the LA transportation network, allowing us to estimate the number of jobs that commute through each road segment.
+
+3. **Demand Estimation Algorithm**
+    - The demand estimation algorithm calculates the number of jobs that commute through each road segment based on the demographic characteristics of the population.
+    - This alogrithm is mainly based on applying the Dijkstra's single-source shortest path algorithm to the graph representation of the LA transportation network.
+    - Python scripts are optimized to handle large-scale data processing.
+        - Current graph network has over 180,000 nodes and 425,000 edges.
+
 ### Relevant Files
 
 * Code for this project is available on [GitHub](https://github.com/cjunwon/SRILab-Road-Demand-Analysis).
