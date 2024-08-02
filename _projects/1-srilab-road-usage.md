@@ -44,6 +44,13 @@ This project mainly uses data from the following sources:
     - Python scripts are optimized to handle large-scale data processing.
         - Current graph network has over 180,000 nodes and 425,000 edges.
 
+### Single Node Sample Result Visualization (Expanded Graph)
+
+The following image shows a sample result of road usage estimation for a source node in the expanded graph representation of the LA transportation network. The green and yellow stars represent the source node and the destination nodes, respectively.
+
+![image](/images/118106_networkx.png)
+
+
 ### Relevant Files
 
 * Code for this project is available on [GitHub](https://github.com/cjunwon/SRILab-Road-Demand-Analysis).
