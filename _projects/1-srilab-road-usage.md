@@ -48,7 +48,7 @@ This project mainly uses data from the following sources:
 
 The following image shows a sample result of road usage estimation for a source node in the expanded graph representation of the LA transportation network. The green and yellow stars represent the source node and the destination nodes, respectively.
 
-![image](/images/118106_networkx.png)
+![image](/images/118106_igraph.png)
 
 
 ### Relevant Files
