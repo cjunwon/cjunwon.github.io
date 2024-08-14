@@ -1,6 +1,6 @@
 ---
 title: "Developing efficient classification for Reddit posts/comments/communities with Graph Neural Networks (GNNs)"
-excerpt: "DataRes Research (UCLA), Winter 2023<br/><br/><img src='/images/datares_research_winer_2023_slide_1.png' style='box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);'>"
+excerpt: "DataRes Research (UCLA), Winter 2023<br/><br/><img src='/images/datares_research_winter_2023_title_slide.png' style='box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);'>"
 collection: projects
 ---
 
