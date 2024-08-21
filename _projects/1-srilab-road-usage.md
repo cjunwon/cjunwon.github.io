@@ -48,13 +48,13 @@ This project mainly uses data from the following sources:
 
 The following image shows a sample result of road usage estimation for a source node in the expanded graph representation of the LA transportation network (igraph visualization). The green and yellow stars represent the source node and the destination nodes, respectively.
 
-![image](/images/118106_igraph.png)
+![image](/images/107504_igraph.png)
 
-### Top 1000 Road Segments by Demand
+### Top 10,000 Road Segments by Demand
 
-The following image shows the top 1000 road segments by demand in the LA transportation network based on this study (QGIS visualization). The results display major highways in the area, such as the I-405 and Route 27 that connect North and South LA.
+The following image shows the top 10,000 road segments by demand in the LA transportation network based on this study (QGIS visualization). The results display major highways in the area, such as the I-405 and Route 27 that connect North and South LA.
 
-![image](/images/top_1000_road_segments.png)
+![image](/images/top_10000_road_segments.png)
 
 
 ### Relevant Files
