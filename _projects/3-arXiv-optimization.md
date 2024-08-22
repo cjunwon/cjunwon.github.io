@@ -6,7 +6,7 @@ collection: projects
 
 ### About
 
-This project aims to develop efficient classification for research papers using and Natural Language Processing (NLP) Instance-Based Learning. This project was developed for the [Mathematics 156 - Machine Learning](https://catalog.registrar.ucla.edu/course/2022/math156?siteYear=2022) course at UCLA.
+This project aims to develop efficient classification for research papers using Natural Language Processing (NLP) and Instance-Based Learning. This project was developed for the [Mathematics 156 - Machine Learning](https://catalog.registrar.ucla.edu/course/2022/math156?siteYear=2022) course at UCLA.
 
 ### Background & Motivation
 
