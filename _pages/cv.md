@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Link to [resume](http://cjunwon.github.io/files/junwonchoi_resume.pdf).
+Link to [resume](http://cjunwon.github.io/files/Junwon_Choi_resume.pdf).
 
 {% include base_path %}
 
