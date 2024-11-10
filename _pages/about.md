@@ -18,11 +18,11 @@ Research
 
 My areas of research and past projects span across several areas in statistics and data science. I am particularly interested in the following topics:
 
-- Applied Machine Learning
 - Generative/Synthetic Data
 - Differential Privacy
 - Graphs & Networks
 - Spatial Statistics
+- Topological Data Analysis
 
 Major projects that I have worked on can be found in the [Projects](http://cjunwon.github.io/projects/) section.
 
