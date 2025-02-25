@@ -16,13 +16,20 @@ For more information, please refer to my [resume](http://cjunwon.github.io/files
 Research
 ===
 
-My areas of research and past projects span across several areas in statistics and data science. I am particularly interested in the following topics:
+My areas of research and expertise span across several topics in statistics and data science. I am particularly interested in the following areas:
 
-- Spatial Statistics
-- Graphs & Networks
+- **Statistical Modeling & Machine Learning**: Spatial Statistics (Geostatistics), Time Series Analysis, Graphs & Networks, Deep Learning
+- **Data Privacy & Security**: Differential Privacy, Generative/Synthetic Data
+- **Scientific Data Analysis**: Hierchical Modeling, Clustering, Data Visualization within Complex Systems
+
+<!-- - Spatial Statistics
+  - Geostatistics
 - Scientific Data Analysis
 - Differential Privacy
 - Generative/Synthetic Data
+- Graphs & Networks
+- Machine Learning
+- Time Series Analysis -->
 
 Major projects that I have worked on can be found in the [Projects](http://cjunwon.github.io/projects/) section.
 
