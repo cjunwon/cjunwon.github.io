@@ -5,8 +5,8 @@ permalink: /publication/2025-07-20-Synthetic-Survey-Data-Generation-and-Evaluati
 excerpt: 'An end-to-end evaluation of five synthetic data generation methods for survey microdata using utility, fidelity, and privacy metrics.'
 date: 2025-07-20
 venue: 'Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25)'
-paperurl: 'https://doi.org/10.1145/3690624.3709421'
-citation: 'Jiang, Y., Liang, S., & Choi, J. (2025). <i>Synthetic Survey Data Generation and Evaluation.</i> In <i>Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining</i> (pp. 2292–2302). ACM. https://doi.org/10.1145/3690624.3709421'
+paperurl: 'https://dl.acm.org/doi/10.1145/3690624.3709421'
+citation: 'Yanru Jiang, Siyu Liang, and Junwon Choi. 2025. Synthetic Survey Data Generation and Evaluation. In Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.1 (KDD ’25). Association for Computing Machinery, New York, NY, USA, 2292–2302. https://doi.org/10.1145/3690624.3709421'
 ---
 
 **Abstract**
