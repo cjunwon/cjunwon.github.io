@@ -13,25 +13,16 @@ As an undergraduate student, I served as the Data Editor for UCLA's student news
 
 <!-- For more information, please refer to my [resume](http://cjunwon.github.io/files/Junwon_Choi_resume.pdf). -->
 
-Research
+Research & Projects
 ===
 
-My areas of research and expertise span across several topics in statistics and data science. I am particularly interested in the following areas:
+My research and project expertise span across several topics in statistics and data science. A core strength of my work is the ability to rapidly adapt to new complex datasets and deliver practical, data-driven solutions. I am particularly interested in the following areas:
 
-- **Statistical Modeling & Machine Learning**: Spatial Statistics (Geostatistics), Time Series Analysis, Graphs & Networks, Deep Learning
-- **Data Privacy & Security**: Differential Privacy, Generative/Synthetic Data
-- **Scientific Data Analysis**: Hierchical Modeling, Clustering, Data Visualization within Complex Systems
+- **Machine Learning & Statistical Modeling**: Spatial Statistics & Geospatial Deep Learning, Time Series Analysis, Stochastic Models, Hierarchical Modeling
+- **Applications of Large Language Models & Agentic Systems**: RAG systems, Multi-agent frameworks
+- **Data Privacy & Security**: Synthetic Data Generation, Differential Privacy
 
-<!-- - Spatial Statistics
-  - Geostatistics
-- Scientific Data Analysis
-- Differential Privacy
-- Generative/Synthetic Data
-- Graphs & Networks
-- Machine Learning
-- Time Series Analysis -->
-
-Major projects that I have worked on can be found in the [Projects](http://cjunwon.github.io/projects/) section.
+Some of my work can be found in [Publications](http://cjunwon.github.io/publications/) and [Projects](http://cjunwon.github.io/projects/).
 
 Recent News
 ===
